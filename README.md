@@ -1,2 +1,2 @@
-# freeCodeCamp-Role-Playing-Game
+# freecodecamp-role-playing-game
 A text based adventure
